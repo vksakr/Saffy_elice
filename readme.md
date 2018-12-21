@@ -1,9 +1,9 @@
-#Repository Name
+#Saffy First Reposit 
 
 ## Abstract
-* 어떤 결과가 나올까?
+* Hello world!
 
 ## Developer
-* Homyeong
+* **Homyeong Won**
     * 가나다라마바사
     * 엽엽
